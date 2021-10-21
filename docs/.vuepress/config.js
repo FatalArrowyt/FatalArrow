@@ -3,7 +3,7 @@ var SList = require("./SList");
 module.exports = {
     title: 'Fatal Arrow',
     description: 'BGMI Tournaments updates and FATAL ARROW Channel Updates',
-    base: "/fatalarrow",
+    base: "/",
     head: [
       ['link', { rel: 'stylesheet', href: "<link rel='preconnect' href='https://fonts.googleapis.com/css2?family=Gugi&display=swap'>" }],
            ['link', { rel: 'icon', href: '/Logo.png' }],
